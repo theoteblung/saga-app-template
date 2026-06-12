@@ -23,7 +23,11 @@ Required details:
   - Label:
   - URL:
 - Asset folder path in this repo:
-  - Example: content/static/assets/
+  - content/static/assets/
+  - app-icon.png is the app icon
+  - main-screen.png is where the user will play and select the background pink white and brown noise
+  - breathing-guide-screen is where the breathing guide will show when the user want visual guide to calm down
+  - onboarding screen is where the app will showing at the first time, it will only showing one to briefly introduce the apps
 
 Strongly recommended details:
 - App icon filename: 
