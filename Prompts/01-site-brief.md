@@ -12,13 +12,13 @@ First, inspect the repository so you understand the project structure. Do not ed
 Help me turn the information below into a clear landing page brief. If I leave required fields blank, ask follow-up questions before writing the brief.
 
 Required details:
-- App name:
-- Target audience:
-- Problem the app solves:
+- App name: Hush
+- Target audience: overstimulated people who likes travelling
+- Problem the app solves: overstimulated people usually listen the familiar sound like kpop or western or chinese or any song. the problem is that sound is made for enjoyment so there's high and low volume in 1 song. when the volume is lower and user can hear the noise then they tend to increase the phone volume and it's really damagin to the ear. this where our apps solve the issue, we will have pink, brown and white noise as a background noise to calm themselve down. in addition, the app also provide visual breathing exercise as a visual guide for user if they need visual misdirection when overstimulated
 - Top 3 benefits:
-  1.
-  2.
-  3.
+  1. fewer step to access mufling and calming sound compared to other apps
+  2. customizeable each sound depends on user preference
+  3. customizeable breathing technique and background sound that user can select
 - Primary call to action:
   - Label:
   - URL:
@@ -26,16 +26,16 @@ Required details:
   - Example: content/static/assets/
 
 Strongly recommended details:
-- App icon filename:
+- App icon filename: 
 - Screenshot filenames:
-- App Store or TestFlight link:
+- App Store or TestFlight link: https://testflight.apple.com/join/gzQWREQf
 - Privacy policy link or privacy notes:
 - Support/contact link or email:
 - Short FAQ:
   - Question:
   - Answer:
 - Desired visual direction:
-  - Examples: clean and professional, playful, elegant, technical, bold, calm, premium, indie.
+  - Examples: clean and professional, zen, simple, brown, pink, white, slow.
 
 Optional details:
 - Testimonials or quotes:
@@ -55,7 +55,7 @@ Don't bring in a lot of clichés, use copy that stands out from other apps
 
 
 Analyze the App XCode Project to fully understand the app capabilities unique selling proposition and colors used in the app to match the color pallet on the website:
-Example: /Users/deverman/Documents/code/exampleproject
+Example: /Users/theoteblung/Documents/ios projects/ada ios project/ada_ch3_challenge
 
 App Color Pallet contained in: Example: content/static/assets/appcolors.svg
 

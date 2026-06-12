@@ -8,7 +8,7 @@
   }
 
   body {
-    @apply mx-auto max-w-4xl bg-panel px-5 font-sans leading-7 text-ink antialiased;
+    @apply bg-canvas font-sans text-ink antialiased;
   }
 
   main {
@@ -16,19 +16,23 @@
   }
 
   h1 {
-    @apply mb-5 text-3xl font-bold tracking-normal text-ink md:text-4xl;
+    @apply text-4xl font-bold tracking-tight text-ink;
   }
 
   h2 {
-    @apply mb-3 mt-8 text-2xl font-semibold tracking-normal text-ink;
+    @apply text-2xl font-semibold tracking-tight text-ink;
+  }
+
+  h3 {
+    @apply text-lg font-semibold text-ink;
   }
 
   p {
-    @apply mb-4 text-muted;
+    @apply leading-7 text-muted;
   }
 
   a {
-    @apply text-accent underline-offset-4 transition-colors hover:text-accent-dark hover:underline;
+    @apply transition-colors;
   }
 
   ol,
@@ -41,11 +45,11 @@
   }
 
   code {
-    @apply rounded bg-line/60 px-1.5 py-0.5 text-[0.9em] text-ink;
+    @apply rounded bg-surface px-1.5 py-0.5 text-[0.9em] text-ink;
   }
 
   pre {
-    @apply mb-4 overflow-x-auto rounded-lg bg-ink p-4 text-surface;
+    @apply mb-4 overflow-x-auto rounded-lg bg-surface p-4 text-ink;
   }
 
   pre code {

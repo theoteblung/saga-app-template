@@ -1,12 +1,4 @@
 ---
-title: The Best App to Solve Your Problem
+title: Hush
 ---
-# Hi to my site
-
-This site is built with [Saga](https://github.com/loopwerk/Saga), a static site generator written in Swift.
-
-
-## Features {#features}
-
-
-## Pricing {#pricing}
+Music has highs and lows. When it dips, you reach for the volume dial. That's how hearing damage starts. Hush replaces that cycle with steady, calibrated noise — the kind that stays put.
